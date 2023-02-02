@@ -1,0 +1,2 @@
+msg = 'こんにちは'
+print(msg)
