@@ -10,7 +10,7 @@ class Person:
         self.firstname = firstname
         self.lastname = lastname
     
-    def show(self)
+    def show(self):
         print(f'私の名前は{self.lastname}{self.firstname}です')
 
 if __name__ == '__main__':
